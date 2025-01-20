@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Based on the keybind in your window manager adjust the cancel key
+rofi \
+  -kb-cancel 'k' \
+  -e "$(cat $1)" \
+	-theme $2 
