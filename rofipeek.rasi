@@ -1,0 +1,26 @@
+configuration {
+    disable-history:                true;
+    click-to-exit: 		            true;
+    location:                       3;
+}
+
+@import "font.rasi"
+@import "colors.rasi"
+
+* {
+    background-color:               #0A0E14;
+    text-color:                     #D9E0EEff;
+    font:                           "JetBrainsMono Nerd Font Mono 10";
+}
+
+window {
+    transparency:                   "real";
+    border:                         2px;
+    border-color:                   #C29A09;
+    border-radius:                  10px;
+    width:                          470px;
+    anchor:                         center;
+    x-offset:                       -10;
+    y-offset:                       15;
+}
+
