@@ -3,6 +3,11 @@
 
 **RofiPeek** is a lightweight tool that overlays your keyboard layout on the screen using [Rofi](https://github.com/davatorium/rofi). It provides a simple way to display any keyboard layout as a text file, making it easy to visualize your layout.
 
+## ScreenShots
+
+![screenshot1](screenshots/screenshot1.png)
+![screenshot2](screenshots/screenshot2.png)
+
 ## Prerequisites
 
 Before using RofiPeek, ensure that you have the following installed:
