@@ -4,9 +4,6 @@ configuration {
     location:                       3;
 }
 
-@import "font.rasi"
-@import "colors.rasi"
-
 * {
     background-color:               #0A0E14;
     text-color:                     #D9E0EEff;
